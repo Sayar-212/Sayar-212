@@ -12,10 +12,10 @@ I'm an enthusiastic AI and Machine Learning developer with a passion for creatin
 
 ## 🚀 Projects
 
-### [SherlockFranchise (Multi-Functional AI System)](https://github.com/username/SherlockFranchise) <!-- Replace with your project link -->
+### [SherlockFranchise (Multi-Functional AI System)](https://github.com/Sayar-212/CodSoftAI) <!-- Replace with your project link -->
 A comprehensive AI system that includes features like image captioning and personalized recommendation systems. Developed during my AI internship at CodSoft, it leverages advanced technologies such as CNN, RNN, NLP, and collaborative filtering to deliver versatile AI solutions.
 
-### [LeetCode Solutions](https://github.com/username/LeetCode) <!-- Replace with your project link -->
+### [LeetCode Solutions](https://github.com/Sayar-212/My_Leetcodes) <!-- Replace with your project link -->
 A collection of solutions to various programming challenges on LeetCode, showcasing problem-solving skills and proficiency in algorithms and data structures.
 
 ## 📚 Learning & Certifications
