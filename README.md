@@ -141,7 +141,7 @@ const sayarBasu = {
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sayar-212&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sayar-212&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400&token=YOUR_TOKEN_HERE&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
